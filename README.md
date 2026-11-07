@@ -13,7 +13,7 @@
 <br/>
 
 <p align="center">
-  <em>I engineer real-time, resilient systems that bridge low-level network protocols, computer vision inference, and distributed backends. Passionate about building robust systems that operate with zero unnecessary cloud dependencies.</em>
+  <em>I engineer measured, resilient systems spanning edge computer vision, biometric authentication, network protocols, and distributed backends. Passionate about building high-throughput systems that operate with zero unnecessary cloud dependencies.</em>
 </p>
 
 </div>
@@ -22,13 +22,13 @@
 
 ### 🚀 Selected Engineering Projects
 
-| Project | Domain | Architecture & Technologies |
+| Project | Domain | Measured Performance & Architecture |
 |---|---|---|
-| [**Drone Hawk X**](https://github.com/purohitgorang/dronewatch-surveillance) | Computer Vision & AI | Air-gapped edge drone surveillance detecting aerial multi-rotors using YOLOv8, PyTorch CUDA, FastAPI, and React 19. |
-| [**Face Detection v2**](https://github.com/purohitgorang/face-detection-biometrics) | Biometrics & Security | Offline 1-to-1 biometric facial authentication with active Haar eye-blink anti-spoofing and 128-d vector embeddings. |
-| [**AuraAssess**](https://github.com/purohitgorang/auraassess-multimodal-ai) | Multimodal AI | Real-time candidate composure intelligence analyzer fusing 468 FaceMesh points, posture angles, and speech prosody over WebSockets. |
-| [**HyTrace**](https://github.com/purohitgorang/hytrace-marketplace) | CleanTech & Web3 | Decentralized Green Hydrogen Credit marketplace using Solidity ERC-721 token burns and Google Genkit AI compliance audit flows. |
-| [**Developer Portfolio**](https://purohitgorang.github.io/developer-portfolio/) ([Repo](https://github.com/purohitgorang/developer-portfolio)) | Frontend & Systems | Live Neo-Brutalist engineering portfolio featuring verified project case studies and interactive system architecture diagrams. |
+| [**Drone Hawk X**](https://github.com/purohitgorang/dronewatch-surveillance) | Edge Vision & Defense | **14.8 ms CUDA latency (GTX 1650)**; 100% precision across 16-sample benchmark (8 drones, 8 environmental distractors); Moiré FFT anti-spoofing; air-gapped FastAPI + React 19. |
+| [**Face Detection v2**](https://github.com/purohitgorang/face-detection-biometrics) | Biometrics & Security | **~35 ms edge CPU verification**; 100% impostor rejection across 15 real-world tests; mirror-aware pose geometry gating; zero raw image storage (128-d SFace ONNX vectors). |
+| [**AuraAssess**](https://github.com/purohitgorang/auraassess-multimodal-ai) | Multimodal AI | **30 FPS streaming telemetry** for candidate self-rehearsal; fuses 468 FaceMesh points, 33 BlazePose keypoints, and acoustic prosody over WebSockets with zero disk retention. |
+| [**HyTrace**](https://github.com/purohitgorang/hytrace-marketplace) | CleanTech & Web3 | Decentralized Green Hydrogen Credit marketplace using **Solidity ERC-721 token burns**, IoT smart meter telemetry validation, and Google Genkit compliance audit flows. |
+| [**Developer Portfolio**](https://purohitgorang.github.io/developer-portfolio/) ([Repo](https://github.com/purohitgorang/developer-portfolio)) | Frontend & Systems | Live Neo-Brutalist engineering portfolio featuring verified project benchmarks, interactive system architecture flowcharts, and zero external layout frameworks. |
 | [**Bluestar Employment**](https://bluestaremployment.com/) | Distributed Web | Production recruitment and staffing platform connecting talent across India on Netlify Edge CDN with zero recurring OpEx. |
 
 ---
