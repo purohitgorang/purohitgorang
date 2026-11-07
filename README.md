@@ -4,6 +4,7 @@
 
 ### Security-Focused Software Engineer • Applied AI & Defensive Systems
 
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-purohitgorang.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://purohitgorang.github.io/developer-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gorangpurohit)
 [![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GorangPurohit)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gorangpurohit@gmail.com)
@@ -27,7 +28,7 @@
 | [**Face Detection v2**](https://github.com/purohitgorang/face-detection-biometrics) | Biometrics & Security | Offline 1-to-1 biometric facial authentication with active Haar eye-blink anti-spoofing and 128-d vector embeddings. |
 | [**AuraAssess**](https://github.com/purohitgorang/auraassess-multimodal-ai) | Multimodal AI | Real-time candidate composure intelligence analyzer fusing 468 FaceMesh points, posture angles, and speech prosody over WebSockets. |
 | [**HyTrace**](https://github.com/purohitgorang/hytrace-marketplace) | CleanTech & Web3 | Decentralized Green Hydrogen Credit marketplace using Solidity ERC-721 token burns and Google Genkit AI compliance audit flows. |
-| [**Developer Portfolio**](https://github.com/purohitgorang/developer-portfolio) | Frontend & Systems | Neo-Brutalist engineering portfolio featuring verified project case studies and interactive system architecture diagrams. |
+| [**Developer Portfolio**](https://purohitgorang.github.io/developer-portfolio/) ([Repo](https://github.com/purohitgorang/developer-portfolio)) | Frontend & Systems | Live Neo-Brutalist engineering portfolio featuring verified project case studies and interactive system architecture diagrams. |
 | [**Bluestar Employment**](https://bluestaremployment.com/) | Distributed Web | Production recruitment and staffing platform connecting talent across India on Netlify Edge CDN with zero recurring OpEx. |
 
 ---
