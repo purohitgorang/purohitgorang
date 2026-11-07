@@ -19,14 +19,6 @@
 
 ---
 
-### 🛡️ Core Specializations
-
-* **Applied AI & Computer Vision:** Real-time on-device video inference, fine-tuned YOLOv8 aerial models, PyTorch CUDA hardware acceleration, active anti-spoofing liveness, and MediaPipe geometric tracking.
-* **Network Security & Defensive Infrastructure:** Deep packet inspection with Scapy, Graph Attention Networks (GAT) for intrusion detection, anomaly modeling (Isolation Forest), and SIEM audit logging.
-* **Distributed Backends & Real-time Systems:** High-throughput Python/FastAPI architectures, full-duplex WebSocket streaming, headless database automation, and hardened Jamstack deployments.
-
----
-
 ### 🚀 Selected Engineering Projects
 
 | Project | Domain | Architecture & Technologies |
