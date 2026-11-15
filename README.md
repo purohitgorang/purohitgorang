@@ -20,7 +20,7 @@
 
 ---
 
-### 🚀 Selected Engineering Projects
+### 🚀 Projects
 
 | Project | Domain | Measured Performance & Architecture |
 |---|---|---|
