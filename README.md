@@ -45,6 +45,20 @@ CS Fundamentals      : Data Structures & Algorithms, Operating Systems, Computer
 
 ---
 
+### ⚡ Leadership, Operations & Community
+
+* **Google Developer Groups (GDG) on Campus — Event Lead** *(Jul 2023 – Present)*
+  * **Hackathon Operations & Execution:** Directed end-to-end planning and technical execution for a two-phase hybrid hackathon spanning **80+ online teams** and a 10-team offline finale, managing platform infrastructure, judging rubrics, and access control.
+  * **Architectural Mentorship:** Delivered **12+ hours of technical mentorship** to finalist teams, guiding system design decisions, API structures, and live debugging under time constraints.
+  * **Community Leadership:** Coordinated cross-functional volunteer teams across operations, communications, and infrastructure, supporting and engaging an active community of **1,600+ student developers**.
+
+* **India Bike Week (IBW) — Volunteer Lead & Sponsor Operations**
+  * **Ground Operations & Team Management:** Started in Infield Operations (IF Ops) managing high-traffic paddock logistics, stage coordination, and crowd safety protocols for Asia's largest motorcycle festival (20,000+ attendees). Promoted to **Lead Volunteer**, taking full ownership of on-ground volunteer roster management, role delegation, and rapid-dispatch coordination across operational zones.
+  * **Sponsor & Brand Management:** Handled on-ground coordination and deliverable fulfillment for major automotive brand sponsors and exhibitors—overseeing stall activations, rider hospitality logistics, and high-priority paddock access under dynamic live festival conditions.
+  * **Live Crisis Resolution:** Resolved fast-moving operational bottlenecks on the ground, serving as the frontline liaison between festival directors, commercial brand partners, and operational crews.
+
+---
+
 ### 🏃 Beyond the Terminal // Off The Clock
 
 * **🏃 Distance Running:** Endurance training that builds grit, patience, and mental stamina for complex debugging sessions.
