@@ -52,10 +52,10 @@ CS Fundamentals      : Data Structures & Algorithms, Operating Systems, Computer
   * **Architectural Mentorship:** Delivered **12+ hours of technical mentorship** to finalist teams, guiding system design decisions, API structures, and live debugging under time constraints.
   * **Community Leadership:** Coordinated cross-functional volunteer teams across operations, communications, and infrastructure, supporting and engaging an active community of **1,600+ student developers**.
 
-* **India Blockchain Week (IBW) — Volunteer Lead & Sponsor Operations**
-  * **Ground Operations & Team Leadership:** Started in Infrastructure & Floor Operations (IF Ops), managing stage coordination, crowd flow, and logistics for India's flagship Web3 conference. Promoted to **Lead Volunteer**, taking full ownership of on-ground volunteer roster management, role delegation, and rapid-dispatch coordination across conference tracks and demo zones.
-  * **Sponsor & Ecosystem Partner Management:** Handled on-ground coordination and deliverable fulfillment for global Web3 protocols, venture funds, and corporate sponsors—overseeing booth activations, speaker hospitality, and partner requirements under high-tempo live conference conditions.
-  * **Live Problem Solving:** Resolved fast-moving operational bottlenecks on the ground, serving as the frontline liaison between event directors, commercial partners, and volunteer crews.
+* **India Blockchain Week (IBW) — Volunteer Lead & Sponsor Coordination**
+  * **Institutional Forum (IF) Operations:** Started on the core operations crew for IBW's closed-door [Institutional Forum](https://indiablockchainweek.com/institutional-forum)—managing access flow, room logistics, and attendee coordination for visiting banking executives, regulators, and enterprise leaders.
+  * **Volunteer Management & Delegation:** Stepped up to **Lead Volunteer**, taking responsibility for onboarding, role delegation, and shift management for the on-ground volunteer team across conference halls and sponsor zones.
+  * **Sponsor & Partner Coordination:** Worked directly with event sponsors and exhibitor booths to ensure their deliverables, stage requirements, and logistics ran smoothly, solving real-time bottlenecks so brand partners had a seamless experience.
 
 ---
 
