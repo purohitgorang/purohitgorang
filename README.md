@@ -52,10 +52,10 @@ CS Fundamentals      : Data Structures & Algorithms, Operating Systems, Computer
   * **Architectural Mentorship:** Delivered **12+ hours of technical mentorship** to finalist teams, guiding system design decisions, API structures, and live debugging under time constraints.
   * **Community Leadership:** Coordinated cross-functional volunteer teams across operations, communications, and infrastructure, supporting and engaging an active community of **1,600+ student developers**.
 
-* **India Bike Week (IBW) — Volunteer Lead & Sponsor Operations**
-  * **Ground Operations & Team Management:** Started in Infield Operations (IF Ops) managing high-traffic paddock logistics, stage coordination, and crowd safety protocols for Asia's largest motorcycle festival (20,000+ attendees). Promoted to **Lead Volunteer**, taking full ownership of on-ground volunteer roster management, role delegation, and rapid-dispatch coordination across operational zones.
-  * **Sponsor & Brand Management:** Handled on-ground coordination and deliverable fulfillment for major automotive brand sponsors and exhibitors—overseeing stall activations, rider hospitality logistics, and high-priority paddock access under dynamic live festival conditions.
-  * **Live Crisis Resolution:** Resolved fast-moving operational bottlenecks on the ground, serving as the frontline liaison between festival directors, commercial brand partners, and operational crews.
+* **India Blockchain Week (IBW) — Volunteer Lead & Sponsor Operations**
+  * **Ground Operations & Team Leadership:** Started in Infrastructure & Floor Operations (IF Ops), managing stage coordination, crowd flow, and logistics for India's flagship Web3 conference. Promoted to **Lead Volunteer**, taking full ownership of on-ground volunteer roster management, role delegation, and rapid-dispatch coordination across conference tracks and demo zones.
+  * **Sponsor & Ecosystem Partner Management:** Handled on-ground coordination and deliverable fulfillment for global Web3 protocols, venture funds, and corporate sponsors—overseeing booth activations, speaker hospitality, and partner requirements under high-tempo live conference conditions.
+  * **Live Problem Solving:** Resolved fast-moving operational bottlenecks on the ground, serving as the frontline liaison between event directors, commercial partners, and volunteer crews.
 
 ---
 
