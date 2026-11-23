@@ -36,10 +36,10 @@
 ### 🛠️ Technical Stack & Arsenal
 
 ```
-AI & Computer Vision : PyTorch, YOLOv8, OpenCV, MediaPipe, ONNX, Scikit-learn
-Security & Protocols : Scapy, Wireshark, TCP/IP, OSI Model, ARP, DNS, TLS, Packet Analysis
-Languages            : Python, JavaScript, TypeScript, Solidity, Bash, C++
-Backend & Systems    : FastAPI, Flask, WebSockets, Next.js, Node.js, Linux (Ubuntu, Kali), Docker
+AI & Computer Vision : PyTorch (CUDA), YOLOv8, OpenCV (YuNet & SFace), ONNX Runtime, MediaPipe, Anti-Spoofing (PAD)
+Applied ML & DSP     : Scikit-learn (Isolation Forest, Random Forest), Audio DSP (MFCCs, Pitch Telemetry), Multimodal Fusion
+Backend & Systems    : Python (FastAPI, Flask), WebSockets, Docker, Linux (Ubuntu, Kali), REST APIs & Microservices
+Security & Protocols : Scapy, Wireshark, TCP/IP, OSI Model, ARP, DNS, TLS, Packet Analysis & Threat Telemetry
 CS Fundamentals      : Data Structures & Algorithms, Operating Systems, Computer Networks
 ```
 
