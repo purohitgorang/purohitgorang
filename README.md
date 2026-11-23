@@ -25,11 +25,11 @@
 | Project | Domain | Measured Performance & Architecture |
 |---|---|---|
 | [**Drone Hawk X**](https://github.com/purohitgorang/dronewatch-surveillance) | Edge Vision & Defense | **14.8 ms CUDA latency (GTX 1650)**; 100% precision across 16-sample benchmark (8 drones, 8 environmental distractors); Dual-head spatial screen-spoof suppression; air-gapped FastAPI + React 19. |
-| [**Face Detection v2**](https://github.com/purohitgorang/face-detection-biometrics) | Biometrics & Security | **~35 ms edge CPU verification**; 100% impostor rejection across 15 real-world tests; mirror-aware pose geometry gating; 128-d SFace ONNX vectors (in-memory matching, display thumbnail only). |
+| [**Bluestar Employment**](https://bluestaremployment.com/) | Distributed Web | Production recruitment platform connecting talent across India on Netlify Edge CDN with zero recurring OpEx and headless Google Sheets pipeline. |
+| [**Biometric Attendance for ERP**](https://github.com/purohitgorang/face-detection-biometrics) | Enterprise AI & ERP | Built during **Acespritech Solutions** internship for **Odoo ERP**; **~35 ms edge CPU verification**; active blink liveness; 100% impostor rejection; in-memory 128-d SFace ONNX matching. |
 | [**AuraAssess**](https://github.com/purohitgorang/auraassess-multimodal-ai) | Multimodal AI | **30 FPS streaming telemetry** for candidate self-rehearsal; fuses 468 FaceMesh points, 33 BlazePose keypoints, and acoustic prosody over WebSockets with zero disk retention. |
 | [**HyTrace**](https://github.com/purohitgorang/hytrace-marketplace) | CleanTech & Web3 | Decentralized Green Hydrogen Credit prototype using **ERC-721 token interfaces**, simulated IoT smart meter telemetry validation, and Google Genkit compliance audit flows. |
 | [**Developer Portfolio**](https://purohitgorang.github.io/developer-portfolio/) ([Repo](https://github.com/purohitgorang/developer-portfolio)) | Frontend & Systems | Live Neo-Brutalist engineering portfolio featuring verified project benchmarks, interactive system architecture flowcharts, and zero external layout frameworks. |
-| [**Bluestar Employment**](https://bluestaremployment.com/) | Distributed Web | Production recruitment and staffing platform connecting talent across India on Netlify Edge CDN with zero recurring OpEx. |
 
 ---
 
