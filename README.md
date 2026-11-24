@@ -22,13 +22,13 @@
 
 ### 🚀 Projects
 
-| Project | Domain | Measured Performance & Architecture |
+| Project | Domain | Operational Problem Solved & Architecture |
 |---|---|---|
-| [**Drone Hawk X**](https://github.com/purohitgorang/dronewatch-surveillance) | Edge Vision & Defense | **14.8 ms CUDA latency (GTX 1650)**; 100% precision across 16-sample benchmark (8 drones, 8 environmental distractors); Dual-head spatial screen-spoof suppression; air-gapped FastAPI + React 19. |
-| [**Bluestar Employment**](https://bluestaremployment.com/) | Distributed Web | Production recruitment platform connecting talent across India on Netlify Edge CDN with zero recurring OpEx and headless Google Sheets pipeline. |
-| [**Biometric Attendance for ERP**](https://github.com/purohitgorang/face-detection-biometrics) | Enterprise AI & ERP | Built during **Acespritech Solutions** internship for **Odoo ERP**; **~35 ms edge CPU verification**; active blink liveness; 100% impostor rejection; in-memory 128-d SFace ONNX matching. |
-| [**AuraAssess**](https://github.com/purohitgorang/auraassess-multimodal-ai) | Multimodal AI | **30 FPS streaming telemetry** for candidate self-rehearsal; fuses 468 FaceMesh points, 33 BlazePose keypoints, and acoustic prosody over WebSockets with zero disk retention. |
-| [**HyTrace**](https://github.com/purohitgorang/hytrace-marketplace) | CleanTech & Web3 | Decentralized Green Hydrogen Credit prototype using **ERC-721 token interfaces**, simulated IoT smart meter telemetry validation, and Google Genkit compliance audit flows. |
+| [**Drone Hawk X**](https://github.com/purohitgorang/dronewatch-surveillance) | Perimeter Defense & Edge Vision | Detects unauthorized low-altitude drones and multi-rotors in restricted airspaces where radar has blind spots; operates 100% air-gapped without cloud latency; rejects video replay attacks. |
+| [**Bluestar Employment**](https://bluestaremployment.com/) | Distributed Web & Systems | Live commercial recruitment platform connecting talent across India; zero-code Google Sheets CMS for HR recruiters, serverless applicant routing, and zero recurring hosting OpEx on global Edge CDN. |
+| [**Biometric Attendance for ERP**](https://github.com/purohitgorang/face-detection-biometrics) | Enterprise Systems & Computer Vision | Solves proxy clock-ins ('buddy-punching') and replaces costly proprietary biometric hardware for **Odoo ERP** (built during **Acespritech Solutions** internship); on-device face verification with active blink liveness. |
+| [**AuraAssess**](https://github.com/purohitgorang/auraassess-multimodal-ai) | Candidate Rehearsal & DSP | Private self-rehearsal platform helping job candidates overcome interview anxiety; streams real-time speech pacing and composure telemetry in-memory with zero cloud recording. |
+| [**HyTrace**](https://github.com/purohitgorang/hytrace-marketplace) | CleanTech & Provenance | Prevents carbon credit double-counting and corporate greenwashing; validates clean hydrogen output directly from power plant telemetry with permanent on-chain token retirement. |
 | [**Developer Portfolio**](https://purohitgorang.github.io/developer-portfolio/) ([Repo](https://github.com/purohitgorang/developer-portfolio)) | Frontend & Systems | Live Neo-Brutalist engineering portfolio featuring verified project benchmarks, interactive system architecture flowcharts, and zero external layout frameworks. |
 
 ---
