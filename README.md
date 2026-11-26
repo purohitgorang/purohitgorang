@@ -4,16 +4,15 @@
 
 ### Security-Focused Software Engineer • Applied AI & Defensive Systems
 
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-purohitgorang.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://purohitgorang.github.io/developer-portfolio/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GorangPurohit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gorangpurohit)
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GorangPurohit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googleearth&logoColor=white)](https://purohitgorang.github.io/developer-portfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gorangpurohit@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Open_For_Roles-22C55E?style=for-the-badge)](mailto:gorangpurohit@gmail.com)
 
 <br/>
 
 <p align="center">
-  <em>I engineer measured, resilient systems spanning edge computer vision, biometric authentication, network protocols, and distributed backends. Passionate about building high-throughput systems that operate with zero unnecessary cloud dependencies.</em>
+  <em>I build practical software across AI, security, and the web—focused on solving real-world problems with tools that are fast, reliable, and easy to use.</em>
 </p>
 
 </div>
