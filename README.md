@@ -6,7 +6,7 @@
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GorangPurohit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gorangpurohit)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googleearth&logoColor=white)](https://purohitgorang.github.io/developer-portfolio/)
+[![Portfolio](./assets/portfolio-badge.svg)](https://purohitgorang.github.io/developer-portfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gorangpurohit@gmail.com)
 
 <br/>
